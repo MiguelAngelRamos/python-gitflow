@@ -1,0 +1,71 @@
+# ============================================================
+# .gitignore - Coffee & Code
+# ============================================================
+
+# --- Archivos de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.whl
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+.virtualenv
+
+# --- IDEs y Editores ---
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+.ipynb_checkpoints/
+*.ipynb
+
+# --- Sistema Operativo ---
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+*~
+
+# --- Archivos de proyecto ---
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.local
+config.local.py
+
+# --- Testing ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- Otros ---
+*.bak
+*.backup

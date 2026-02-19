@@ -174,7 +174,7 @@ Este código resuelve el ejercicio **"Sistema de Gestión de Inventario - Coffee
 
 ---
 
-##  Contribuciones
+##  Contribuciones para el proyecto
 
 Este es un proyecto educativo. Si deseas contribuir:
 
